@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74bf4fe0.css",
+    "main.js": "/static/js/main.ef7fe66e.js",
+    "static/media/hero_image.png": "/static/media/hero_image.09ff1c4114792a6143c2.png",
+    "static/media/perfumeBanner.jpg": "/static/media/perfumeBanner.7dcf9c9c149792dac444.jpg",
+    "static/media/sunglassBanner.jpg": "/static/media/sunglassBanner.48c4aa4dfbc51197392f.jpg",
+    "static/media/mensWatchBanner.jpg": "/static/media/mensWatchBanner.30be4ed936757f4665ef.jpg",
+    "static/media/exclusive_image.png": "/static/media/exclusive_image.e8118f2149d9cb916980.png",
+    "static/media/hand_icon.png": "/static/media/hand_icon.9c7487cecb600f30901b.png",
+    "index.html": "/index.html",
+    "main.74bf4fe0.css.map": "/static/css/main.74bf4fe0.css.map",
+    "main.ef7fe66e.js.map": "/static/js/main.ef7fe66e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74bf4fe0.css",
+    "static/js/main.ef7fe66e.js"
+  ]
+}
